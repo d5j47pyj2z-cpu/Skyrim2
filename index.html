@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1015">
+<title>Skyrim — Grimoire Nordique</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="rune">ᛉ</span><div><b>SKYRIM</b><small>GRIMOIRE NORDIQUE</small></div></div>
+</header>
+
+<main>
+<section id="home" class="screen active">
+  <p class="eyebrow">COMPAGNON DE VOYAGE</p>
+  <h1>Alchimie<br><i>& Cuisine</i></h1>
+  <p class="muted">Gère tes ingrédients et tes recettes directement depuis ton téléphone.</p>
+  <div class="home-grid">
+    <button class="big-card" data-open="ingredients">🌿<b>Ingrédients</b><small>Mon inventaire</small></button>
+    <button class="big-card" data-open="alchemy">⚗️<b>Alchimie</b><small>Créer une potion</small></button>
+    <button class="big-card" data-open="cooking">🥘<b>Cuisine</b><small>Mes recettes</small></button>
+    <button class="big-card" data-open="collection">ᚱ<b>Progression</b><small>Ma collection</small></button>
+  </div>
+  <div class="summary">
+    <div><b id="homeIng">0</b><span>ingrédients en stock</span></div>
+    <div><b id="homeFood">0</b><span>recettes fabriquées</span></div>
+  </div>
+</section>
+
+<section id="ingredients" class="screen">
+  <div class="head"><p class="eyebrow">RÉSERVES</p><h2>Ingrédients</h2><p class="muted">Utilise + et − pour gérer ton stock.</p></div>
+  <input id="ingredientSearch" class="input" type="search" placeholder="🔎 Rechercher un ingrédient">
+  <select id="ingredientSource" class="input"><option value="">Toutes les sources</option><option>Skyrim</option><option>Dawnguard</option><option>Hearthfire</option><option>Dragonborn</option><option>Anniversary Edition</option></select>
+  <div id="ingredientList" class="list"></div>
+</section>
+
+<section id="alchemy" class="screen">
+  <div class="head"><p class="eyebrow">TABLE D'ALCHIMIE</p><h2>Combinaison</h2><p class="muted">Choisis 2 ou 3 ingrédients pour trouver leurs effets communs.</p></div>
+  <div class="panel">
+    <label>Ingrédient 1<select id="a1" class="input"></select></label>
+    <label>Ingrédient 2<select id="a2" class="input"></select></label>
+    <label>Ingrédient 3<select id="a3" class="input"><option value="">Aucun</option></select></label>
+    <button id="mix" class="gold-btn" type="button">⚗️ Analyser</button>
+    <div id="mixResult" class="result">Sélectionne tes ingrédients.</div>
+  </div>
+  <div class="panel">
+    <input id="effectSearch" class="input" type="search" placeholder="🔎 Rechercher un effet">
+    <div id="effects" class="chips"></div>
+  </div>
+</section>
+
+<section id="cooking" class="screen">
+  <div class="head"><p class="eyebrow">FEU DE CAMP</p><h2>Cuisine</h2></div>
+  <input id="recipeSearch" class="input" type="search" placeholder="🔎 Rechercher une recette">
+  <div class="two"><select id="recipeStation" class="input"><option value="">Toutes les stations</option><option>Marmite</option><option>Four</option><option>Moulin</option></select>
+  <select id="recipeSource" class="input"><option value="">Toutes les sources</option><option>Skyrim</option><option>Hearthfire</option><option>Dragonborn</option><option>Anniversary Edition</option></select></div>
+  <div id="recipeList" class="list"></div>
+</section>
+
+<section id="collection" class="screen">
+  <div class="head"><p class="eyebrow">PROGRESSION</p><h2>Ma collection</h2></div>
+  <div class="progress panel"><div class="circle"><b id="percent">0%</b></div><div><b id="progressTitle">0 élément</b><p class="muted">suivi dans ton grimoire</p></div></div>
+  <div id="collectionInfo" class="two-cards"></div>
+  <button id="reset" class="reset" type="button">Réinitialiser la progression</button>
+</section>
+</main>
+
+<nav class="nav">
+<button data-open="home">⌂<small>Accueil</small></button>
+<button data-open="alchemy">⚗<small>Alchimie</small></button>
+<button data-open="cooking">🥘<small>Cuisine</small></button>
+<button data-open="ingredients">🌿<small>Ingrédients</small></button>
+<button data-open="collection">ᚱ<small>Collection</small></button>
+</nav>
+<script src="app.js"></script>
+</body>
+</html>

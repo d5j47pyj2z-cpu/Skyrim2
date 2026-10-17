@@ -1,0 +1,425 @@
+[
+  {
+    "nom": "Ragoût de chou aux pommes",
+    "ingredients": [
+      "Chou",
+      "Pomme rouge",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé, 15 vigueur",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Ragoût de bœuf",
+    "ingredients": [
+      "Carotte",
+      "Ail",
+      "Bœuf cru",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Renfort de vigueur 25 / 12 min, régénération de vigueur 2 / 12 min",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Soupe chou-pomme de terre",
+    "ingredients": [
+      "Chou",
+      "Poireau",
+      "Pomme de terre",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé, 10 vigueur",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Soupe au chou",
+    "ingredients": [
+      "Chou",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé, 8 vigueur",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Chaudrée de palourdes",
+    "ingredients": [
+      "Chair de palourde",
+      "Pomme de terre",
+      "Cruche de lait",
+      "Beurre"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé, 10 vigueur",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Bœuf cuit",
+    "ingredients": [
+      "Bœuf cru",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Fondue d'Elsweyr",
+    "ingredients": [
+      "Bière",
+      "Meule de fromage Eidar",
+      "Sucrelune"
+    ],
+    "station": "Marmite",
+    "effet": "Renfort de magie 100, régénération de magie +25 % / 12 min",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Blanc de poulet grillé",
+    "ingredients": [
+      "Blanc de poulet",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 5 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Ragoût de horker et igname cendrée",
+    "ingredients": [
+      "Igname cendrée",
+      "Ail",
+      "Viande de horker"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 15 santé, 15 vigueur, régénération santé 1 / 12 min",
+    "source": "Dragonborn",
+    "fait": false
+  },
+  {
+    "nom": "Pain de horker",
+    "ingredients": [
+      "Viande de horker",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Ragoût de horker",
+    "ingredients": [
+      "Ail",
+      "Viande de horker",
+      "Lavande",
+      "Tomate"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 15 santé, 15 vigueur, régénération santé 1 / 12 min",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Cuissot de cheval",
+    "ingredients": [
+      "Viande de cheval",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Gigot de chèvre rôti",
+    "ingredients": [
+      "Gigot de chèvre",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Steak de mammouth",
+    "ingredients": [
+      "Museau de mammouth",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Rôti de faisan",
+    "ingredients": [
+      "Blanc de faisan",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 5 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Cuisse de lapin",
+    "ingredients": [
+      "Cuisse de lapin crue",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 5 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Steak de saumon",
+    "ingredients": [
+      "Chair de saumon",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 5 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Pattes de vasard à la vapeur",
+    "ingredients": [
+      "Pattes de vasard",
+      "Beurre"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 12 santé",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Soupe à la tomate",
+    "ingredients": [
+      "Ail",
+      "Poireau",
+      "Tomate",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 10 santé, 10 vigueur",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Soupe de légumes",
+    "ingredients": [
+      "Chou",
+      "Poireau",
+      "Pomme de terre",
+      "Tomate"
+    ],
+    "station": "Marmite",
+    "effet": "Régénération santé 1 / 12 min, vigueur 1 / 12 min",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Côtelette de venaison",
+    "ingredients": [
+      "Venaison",
+      "Tas de sel"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 5 santé",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Ragoût de venaison",
+    "ingredients": [
+      "Poireau",
+      "Pomme de terre",
+      "Tas de sel",
+      "Venaison"
+    ],
+    "station": "Marmite",
+    "effet": "Restaure 15 vigueur, régénération santé 1 / 12 min, vigueur 1 / 12 min",
+    "source": "Skyrim",
+    "fait": false
+  },
+  {
+    "nom": "Boulette aux pommes",
+    "ingredients": [
+      "Sac de farine",
+      "Pomme verte",
+      "Pomme rouge"
+    ],
+    "station": "Four",
+    "effet": "Restaure 5 santé, renfort d'archerie 5 % / 60 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Tarte aux pommes",
+    "ingredients": [
+      "Sac de farine",
+      "Tas de sel",
+      "Beurre",
+      "Œuf de poule",
+      "2 Pomme verte",
+      "2 Pomme rouge"
+    ],
+    "station": "Four",
+    "effet": "Restaure 10 santé",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Pain tressé",
+    "ingredients": [
+      "Sac de farine",
+      "Tas de sel"
+    ],
+    "station": "Four",
+    "effet": "Restaure 2 santé, renfort de portage 5 / 30 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Pain",
+    "ingredients": [
+      "Sac de farine",
+      "Tas de sel",
+      "Cruche de lait",
+      "Œuf de poule"
+    ],
+    "station": "Four",
+    "effet": "Restaure 2 santé",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Boulette de poulet",
+    "ingredients": [
+      "Sac de farine",
+      "Tas de sel",
+      "Viande de poulet",
+      "Ail",
+      "Poireau"
+    ],
+    "station": "Four",
+    "effet": "Restaure 15 santé, régénération santé 1 / 2 min",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Pain à l'ail",
+    "ingredients": [
+      "Miche de pain",
+      "Beurre",
+      "Ail"
+    ],
+    "station": "Four",
+    "effet": "Restaure 1 santé, soigne les maladies",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Crostata de raisin jazbay",
+    "ingredients": [
+      "Sac de farine",
+      "2 Raisins jazbay",
+      "Beurre"
+    ],
+    "station": "Four",
+    "effet": "Restaure 10 santé, renfort de magie 4 / 60 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Crostata aux genièvres",
+    "ingredients": [
+      "Sac de farine",
+      "3 Genièvres",
+      "Beurre"
+    ],
+    "station": "Four",
+    "effet": "Restaure 4 santé, régénération santé 2 / 60 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Boulette à la lavande",
+    "ingredients": [
+      "Sac de farine",
+      "Sucrelune",
+      "2 Givreboises",
+      "Lavande"
+    ],
+    "station": "Four",
+    "effet": "Restaure 5 santé, renfort de magie 10 / 60 s, résistance à la magie 10 % / 60 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Pain de pomme de terre",
+    "ingredients": [
+      "Sac de farine",
+      "Cruche de lait",
+      "Tas de sel",
+      "Pomme de terre",
+      "Œuf de poule"
+    ],
+    "station": "Four",
+    "effet": "Restaure 3 santé",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Crostata aux givreboises",
+    "ingredients": [
+      "Sac de farine",
+      "2 Givreboises",
+      "Beurre"
+    ],
+    "station": "Four",
+    "effet": "Restaure 10 santé, résistance au feu 4 % / 60 s",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Chausson sucré",
+    "ingredients": [
+      "Sac de farine",
+      "Cruche de lait",
+      "Tas de sel",
+      "Beurre",
+      "Œuf de poule"
+    ],
+    "station": "Four",
+    "effet": "Restaure 5 santé",
+    "source": "Hearthfire",
+    "fait": false
+  },
+  {
+    "nom": "Farine",
+    "ingredients": [
+      "3 Blé"
+    ],
+    "station": "Moulin",
+    "effet": "Produit 1 sac de farine",
+    "source": "Hearthfire",
+    "fait": false
+  }
+]

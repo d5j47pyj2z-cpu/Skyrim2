@@ -1,0 +1,1212 @@
+[
+  {
+    "nom": "Abeille",
+    "effets": [
+      "Restauration de vigueur",
+      "Destruction de vigueur",
+      "Récupération de vigueur",
+      "Vulnérabilité à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Abécéen à longue nageoire",
+    "effets": [
+      "Vulnérabilité à la glace",
+      "Renfort de furtivité",
+      "Vulnérabilité au poison",
+      "Renfort de guérison"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Ail",
+    "effets": [
+      "Résistance au poison",
+      "Renfort de vigueur",
+      "Regain magique",
+      "Régénération de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Aile de fléchette bleue",
+    "effets": [
+      "Résistance à la foudre",
+      "Renfort de vol à la tire",
+      "Restauration de santé",
+      "Peur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Aile de fléchette orange",
+    "effets": [
+      "Restauration de vigueur",
+      "Destruction de magie",
+      "Renfort de vol à la tire",
+      "Pénalité de santé persistante"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Aile de papillon bleue",
+    "effets": [
+      "Pénalité de vigueur",
+      "Renfort de conjuration",
+      "Pénalité de regain magique",
+      "Renfort d'enchantement"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Aile de papillon",
+    "effets": [
+      "Restauration de santé",
+      "Renfort de marchandage",
+      "Pénalité de vigueur persistante",
+      "Pénalité de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Aile de noctuelle",
+    "effets": [
+      "Pénalité de magie",
+      "Renfort d'armure légère",
+      "Régénération de santé",
+      "Invisibilité"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Amanite tue-mouches",
+    "effets": [
+      "Résistance au feu",
+      "Renfort d'arme à deux mains",
+      "Frénésie",
+      "Récupération de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Antennes de chasseur Chaurus",
+    "effets": [
+      "Pénalité de vigueur",
+      "Renfort de conjuration",
+      "Dégât à la récupération de magie",
+      "Renfort d'enchantement"
+    ],
+    "source": "Dawnguard",
+    "possede": false
+  },
+  {
+    "nom": "Bec de faucon",
+    "effets": [
+      "Restauration de vigueur",
+      "Résistance à la glace",
+      "Renfort de portage",
+      "Résistance à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Bernache nordique",
+    "effets": [
+      "Pénalité de magie",
+      "Respiration aquatique",
+      "Régénération de santé",
+      "Renfort de vol à la tire"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Blé",
+    "effets": [
+      "Restauration de santé",
+      "Renfort de santé",
+      "Pénalité de récupération de vigueur",
+      "Pénalité de magie persistante"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Bois de spriggan brûlé",
+    "effets": [
+      "Vulnérabilité au feu",
+      "Renfort d'altération",
+      "Dégât à la récupération de magie",
+      "Langueur"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Brillefleur",
+    "effets": [
+      "Résistance à la magie",
+      "Peur",
+      "Régénération de santé",
+      "Paralysie"
+    ],
+    "source": "Dawnguard",
+    "possede": false
+  },
+  {
+    "nom": "Carpe du Hist",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de magie",
+      "Pénalité de récupération de vigueur",
+      "Respiration aquatique"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Cendres d'engeance",
+    "effets": [
+      "Vigueur endommagée",
+      "Résistance au feu",
+      "Renfort d'enchantement",
+      "Magie endommagée"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Chair humaine",
+    "effets": [
+      "Pénalité de santé",
+      "Paralysie",
+      "Restauration de magie",
+      "Renfort de furtivité"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Champignon luisant",
+    "effets": [
+      "Résistance à la foudre",
+      "Renfort de destruction",
+      "Renfort de forgeage",
+      "Renfort de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Chapeau-blanc",
+    "effets": [
+      "Vulnérabilité à la glace",
+      "Renfort d'armure lourde",
+      "Restauration de magie",
+      "Destruction de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Chitine de vasard",
+    "effets": [
+      "Restauration de vigueur",
+      "Potion médicinale",
+      "Résistance au poison",
+      "Résistance au feu"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Choucard",
+    "effets": [
+      "Santé endommagée",
+      "Vigueur endommagée",
+      "Magie endommagée",
+      "Pénalité de santé persistante"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Cloquerille",
+    "effets": [
+      "Pénalité de vigueur",
+      "Frénésie",
+      "Restauration de santé",
+      "Renfort de forgeage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Cosse cendrée",
+    "effets": [
+      "Résistance au feu",
+      "Vulnérabilité à la foudre",
+      "Renfort de crochetage",
+      "Renfort de furtivité"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Cosse",
+    "effets": [
+      "Résistance au poison",
+      "Destruction de magie",
+      "Renfort d'altération",
+      "Restauration de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Coton sauvage",
+    "effets": [
+      "Résistance à la magie",
+      "Renfort de magie",
+      "Renfort de parade",
+      "Renfort de marchandage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Couronne sanglante",
+    "effets": [
+      "Vulnérabilité au feu",
+      "Renfort de parade",
+      "Vulnérabilité au poison",
+      "Résistance à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Cœur de Daedra",
+    "effets": [
+      "Restauration de santé",
+      "Pénalité de récupération de vigueur",
+      "Pénalité de magie",
+      "Peur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Cœur de ronces",
+    "effets": [
+      "Restauration de magie",
+      "Renfort de parade",
+      "Paralysie",
+      "Renfort de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Cœur humain",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de magie",
+      "Pénalité de regain magique",
+      "Frénésie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Cyprin doré",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort d'armure lourde",
+      "Respiration aquatique",
+      "Résistance à la glace"
+    ],
+    "source": "Anniversary Edition",
+    "possede": false
+  },
+  {
+    "nom": "Dent de smilodon",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort d'armure lourde",
+      "Renfort de forgeage",
+      "Vulnérabilité au poison"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Dent de spectre de glace",
+    "effets": [
+      "Vulnérabilité à la glace",
+      "Renfort d'armure lourde",
+      "Invisibilité",
+      "Vulnérabilité au feu"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Défense de mammouth en poudre",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de furtivité",
+      "Vulnérabilité au feu",
+      "Peur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Défense de sanglier",
+    "effets": [
+      "Renfort de vigueur",
+      "Renfort de santé",
+      "Renfort de parade",
+      "Frénésie"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Écailles de poisson carnassier",
+    "effets": [
+      "Résistance à la glace",
+      "Pénalité de santé persistante",
+      "Renfort d'armure lourde",
+      "Renfort de parade"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Ectoplasme",
+    "effets": [
+      "Restauration de magie",
+      "Renfort de destruction",
+      "Renfort de magie",
+      "Pénalité de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Farine d'os",
+    "effets": [
+      "Pénalité de vigueur",
+      "Résistance au feu",
+      "Renfort de conjuration",
+      "Destruction de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Floraison empoisonnée",
+    "effets": [
+      "Pénalité de santé",
+      "Langueur",
+      "Renfort de portage",
+      "Peur"
+    ],
+    "source": "Dawnguard",
+    "possede": false
+  },
+  {
+    "nom": "Gelée de netch",
+    "effets": [
+      "Paralysie",
+      "Renfort de portage",
+      "Restauration de vigueur",
+      "Peur"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Gelée de sautecendres",
+    "effets": [
+      "Restauration de santé",
+      "Renfort d'armure légère",
+      "Résistance à la foudre",
+      "Vulnérabilité à la glace"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Genièvres",
+    "effets": [
+      "Vulnérabilité au feu",
+      "Renfort de précision",
+      "Régénération de santé",
+      "Pénalité de récupération de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Givreboises",
+    "effets": [
+      "Résistance au feu",
+      "Renfort d'enchantement",
+      "Résistance à la glace",
+      "Résistance à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Graisse de troll",
+    "effets": [
+      "Résistance au poison",
+      "Renfort d'arme à deux mains",
+      "Frénésie",
+      "Pénalité de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Grande ramure",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de vigueur",
+      "Langueur",
+      "Pénalité de récupération de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Grelot-de-la-mort",
+    "effets": [
+      "Pénalité de santé",
+      "Destruction de vigueur",
+      "Langueur",
+      "Vulnérabilité au poison"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Griffes d'ours",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de santé",
+      "Renfort d'arme à une main",
+      "Pénalité de regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Hivernelle",
+    "effets": [
+      "Résistance à la glace",
+      "Renfort de furtivité",
+      "Destruction de magie",
+      "Pénalité de récupération de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Huile dwemer",
+    "effets": [
+      "Vulnérabilité à la magie",
+      "Renfort d'illusion",
+      "Regain magique",
+      "Restauration de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Langue de dragon",
+    "effets": [
+      "Résistance au feu",
+      "Renfort de marchandage",
+      "Renfort d'illusion",
+      "Renfort d'arme à deux mains"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Lavande",
+    "effets": [
+      "Résistance à la magie",
+      "Renfort de vigueur",
+      "Destruction de magie",
+      "Renfort de conjuration"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Lichen géant",
+    "effets": [
+      "Vulnérabilité à la foudre",
+      "Destruction de santé",
+      "Vulnérabilité au poison",
+      "Restauration de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Lys des cimes jaune",
+    "effets": [
+      "Résistance au poison",
+      "Fortification de guérison",
+      "Fortification de santé",
+      "Pénalité de régénération de magie"
+    ],
+    "source": "Dawnguard",
+    "possede": false
+  },
+  {
+    "nom": "Lys des cimes bleu",
+    "effets": [
+      "Restauration de santé",
+      "Renfort de conjuration",
+      "Renfort de santé",
+      "Pénalité de regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Lys des cimes rouge",
+    "effets": [
+      "Restauration de magie",
+      "Destruction de magie",
+      "Renfort de magie",
+      "Pénalité de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Lys des cimes violet",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de furtivité",
+      "Pénalité de magie persistante",
+      "Résistance à la glace"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Mora Tapinella",
+    "effets": [
+      "Restauration de magie",
+      "Pénalité de santé persistante",
+      "Récupération de vigueur",
+      "Renfort d'illusion"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Mousse barbue",
+    "effets": [
+      "Pénalité de magie",
+      "Renfort de santé",
+      "Pénalité de regain magique",
+      "Renfort d'arme à une main"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Mousse-parasol",
+    "effets": [
+      "Pénalité de santé",
+      "Renfort de magie",
+      "Régénération de santé",
+      "Renfort d'arme à deux mains"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Mycène des marais",
+    "effets": [
+      "Résistance à la foudre",
+      "Pénalité de magie persistante",
+      "Paralysie",
+      "Restauration de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Nirnroot cramoisie",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de vigueur",
+      "Invisibilité",
+      "Résistance à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Nirnroot",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de vigueur",
+      "Invisibilité",
+      "Résistance à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Obscurcine",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de regain magique",
+      "Pénalité de vigueur persistante",
+      "Renfort de destruction"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œil de smilodon",
+    "effets": [
+      "Restauration de vigueur",
+      "Destruction de santé",
+      "Pénalité de magie",
+      "Restauration de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf d'araignée",
+    "effets": [
+      "Pénalité de vigueur",
+      "Pénalité de regain magique",
+      "Renfort de crochetage",
+      "Renfort de précision"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de chaurus",
+    "effets": [
+      "Vulnérabilité au poison",
+      "Renfort de vigueur",
+      "Pénalité de magie",
+      "Invisibilité"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de faucon",
+    "effets": [
+      "Résistance à la magie",
+      "Dégât à la récupération de magie",
+      "Respiration aquatique",
+      "Pénalité de vigueur persistante"
+    ],
+    "source": "Hearthfire",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de fauvette",
+    "effets": [
+      "Restauration de santé",
+      "Renfort d'arme à une main",
+      "Pénalité de vigueur",
+      "Vulnérabilité à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de grive",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de crochetage",
+      "Vulnérabilité au poison",
+      "Résistance à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de poisson carnassier",
+    "effets": [
+      "Résistance au poison",
+      "Renfort de vol à la tire",
+      "Pénalité de santé persistante",
+      "Renfort de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œuf de poule",
+    "effets": [
+      "Résistance à la magie",
+      "Pénalité de regain magique",
+      "Respiration aquatique",
+      "Pénalité de vigueur persistante"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Œufs de saumon",
+    "effets": [
+      "Restauration de vigueur",
+      "Respiration aquatique",
+      "Fortification de magie",
+      "Régénération de magie"
+    ],
+    "source": "Hearthfire",
+    "possede": false
+  },
+  {
+    "nom": "Oreille d'Elfe",
+    "effets": [
+      "Restauration de magie",
+      "Renfort de précision",
+      "Vulnérabilité à la glace",
+      "Résistance au feu"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Oreille de Falmer",
+    "effets": [
+      "Pénalité de santé",
+      "Frénésie",
+      "Résistance au poison",
+      "Renfort de crochetage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Orteil de géant",
+    "effets": [
+      "Pénalité de vigueur",
+      "Renfort de santé",
+      "Renfort de portage",
+      "Pénalité de récupération de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Peau de ragnard carbonisé",
+    "effets": [
+      "Restauration de vigueur",
+      "Potion médicinale",
+      "Résistance au poison",
+      "Restauration de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Perche argentée",
+    "effets": [
+      "Restauration de vigueur",
+      "Pénalité de récupération de vigueur",
+      "Destruction de santé",
+      "Résistance à la glace"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Perle",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de parade",
+      "Restauration de magie",
+      "Résistance à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Petite perle",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort d'arme à une main",
+      "Renfort de guérison",
+      "Résistance à la glace"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Petite ramure",
+    "effets": [
+      "Vulnérabilité au poison",
+      "Renfort de guérison",
+      "Pénalité de vigueur persistante",
+      "Pénalité de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Pholiote à écailles",
+    "effets": [
+      "Vulnérabilité à la magie",
+      "Renfort d'illusion",
+      "Récupération de vigueur",
+      "Renfort de portage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Pied-de-lutin",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de santé persistante",
+      "Paralysie",
+      "Restauration de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Plantes grimpantes",
+    "effets": [
+      "Restauration de magie",
+      "Pénalité de récupération de vigueur",
+      "Renfort de portage",
+      "Vulnérabilité à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Plumes d'harfreuse",
+    "effets": [
+      "Pénalité de magie",
+      "Renfort de conjuration",
+      "Frénésie",
+      "Vulnérabilité à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Plumes de faucon",
+    "effets": [
+      "Potion médicinale",
+      "Renfort d'armure légère",
+      "Renfort d'arme à une main",
+      "Renfort de furtivité"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Plumes de sterne de Felsaad",
+    "effets": [
+      "Restauration de santé",
+      "Renfort d'armure légère",
+      "Potion médicinale",
+      "Résistance à la magie"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Poisson de rivière",
+    "effets": [
+      "Pénalité de santé",
+      "Renfort d'altération",
+      "Langueur",
+      "Renfort de portage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Poisson-combattant de Cyrodil",
+    "effets": [
+      "Pénalité de vigueur",
+      "Renfort de guérison",
+      "Peur",
+      "Destruction de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Poussière de vampire",
+    "effets": [
+      "Invisibilité",
+      "Restauration de magie",
+      "Régénération de santé",
+      "Potion médicinale"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Poussière luisante",
+    "effets": [
+      "Pénalité de magie",
+      "Pénalité de regain magique",
+      "Renfort de destruction",
+      "Résistance à la foudre"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Queue de ragnard",
+    "effets": [
+      "Pénalité de récupération de vigueur",
+      "Destruction de santé",
+      "Pénalité de santé",
+      "Renfort d'armure légère"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Racine de canis",
+    "effets": [
+      "Pénalité de vigueur",
+      "Renfort d'arme à une main",
+      "Renfort de précision",
+      "Paralysie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Racine de cendres",
+    "effets": [
+      "Pénalité de vigueur",
+      "Invisibilité",
+      "Résistance au feu",
+      "Renfort de destruction"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Racine de jarrin",
+    "effets": [
+      "Pénalité de santé",
+      "Pénalité de magie",
+      "Pénalité de vigueur",
+      "Pénalité de regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Racine de trama",
+    "effets": [
+      "Vulnérabilité à la foudre",
+      "Renfort de portage",
+      "Pénalité de magie",
+      "Langueur"
+    ],
+    "source": "Dragonborn",
+    "possede": false
+  },
+  {
+    "nom": "Racine noueuse",
+    "effets": [
+      "Vulnérabilité à la magie",
+      "Renfort d'illusion",
+      "Regain magique",
+      "Restauration de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Raisin jazbay",
+    "effets": [
+      "Vulnérabilité à la magie",
+      "Renfort de magie",
+      "Regain magique",
+      "Destruction de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Rayons de miel",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de parade",
+      "Renfort d'armure légère",
+      "Destruction de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Ruche vide",
+    "effets": [
+      "Résistance au poison",
+      "Renfort d'armure légère",
+      "Renfort de furtivité",
+      "Renfort de destruction"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Sels de feu",
+    "effets": [
+      "Vulnérabilité à la glace",
+      "Résistance au feu",
+      "Restauration de magie",
+      "Regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Sels de givre",
+    "effets": [
+      "Vulnérabilité au feu",
+      "Résistance à la glace",
+      "Restauration de magie",
+      "Renfort de conjuration"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Sels du Néant",
+    "effets": [
+      "Vulnérabilité à la foudre",
+      "Résistance à la magie",
+      "Pénalité de santé",
+      "Renfort de magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Serre d'harfreuse",
+    "effets": [
+      "Résistance à la magie",
+      "Pénalité de magie persistante",
+      "Renfort d'enchantement",
+      "Renfort de marchandage"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Sucrelune",
+    "effets": [
+      "Vulnérabilité au feu",
+      "Résistance à la glace",
+      "Restauration de magie",
+      "Regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Sève de spriggan",
+    "effets": [
+      "Pénalité de regain magique",
+      "Renfort d'enchantement",
+      "Renfort de forgeage",
+      "Renfort d'altération"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Tas de sel",
+    "effets": [
+      "Vulnérabilité à la magie",
+      "Renfort de guérison",
+      "Langueur",
+      "Regain magique"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Thorax de Flammouche",
+    "effets": [
+      "Restauration de vigueur",
+      "Pénalité de magie persistante",
+      "Vulnérabilité à la magie",
+      "Renfort de vigueur"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Tige de chardon",
+    "effets": [
+      "Résistance à la glace",
+      "Destruction de vigueur",
+      "Résistance au poison",
+      "Renfort d'armure lourde"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Truffe de Namira",
+    "effets": [
+      "Pénalité de magie",
+      "Renfort de crochetage",
+      "Peur",
+      "Régénération de santé"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  },
+  {
+    "nom": "Voiles éthérés",
+    "effets": [
+      "Restauration de vigueur",
+      "Renfort de destruction",
+      "Renfort de portage",
+      "Résistance à la magie"
+    ],
+    "source": "Skyrim",
+    "possede": false
+  }
+]
